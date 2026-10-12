@@ -1,0 +1,9 @@
+pizza_type_id,name,category,ingredients
+classic,The Classic Deluxe Pizza,Classic Deluxe,Classic
+veggie,The Garden Veggie Pizza,Garden Veggie,Veggie
+pepperoni,The Pepperoni Pizza,Pepperoni,Classic
+bbq,The BBQ Chicken Pizza,BBQ Chicken,Chicken
+hawaiian,The Hawaiian Pizza,Hawaiian,Classic
+margherita,The Margherita Pizza,Margherita,Veggie
+spicy,The Spicy Italian Pizza,Spicy Italian,Supreme
+four_cheese,The Four Cheese Pizza,Four Cheese,Veggie
